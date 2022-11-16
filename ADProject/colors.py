@@ -1,0 +1,6 @@
+unknown = "background-color:rgb(200, 200, 200)"
+known = "background-color:rgb(170, 170, 170)"
+risky = "color:rgb(255, 255, 0)"
+dangerous = "color:rgb(255, 153, 51)"
+hazardous = "color:rgb(255, 80, 80)"
+atStake = "color:rgb(255, 0, 0)"
